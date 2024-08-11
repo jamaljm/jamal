@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 👯 I’m looking to collaborate on **Fintech projects**
-
 - 📫 How to reach me **jamalvga2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
