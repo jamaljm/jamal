@@ -8,7 +8,7 @@
 <h3 align="center"> I CAN WORK WITH</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,ai,python,c,html,css,tailwind,ts,react,git,github,vercel,nestjs,express,figma,flask,postgresql,django,photoshop,nextjs,docker&perline=7" />
+    <img src="https://skillicons.dev/icons?i=javascript,aws,python,c,html,css,tailwind,ts,react,git,github,vercel,nestjs,express,figma,flask,postgresql,django,photoshop,nextjs,docker&perline=7" />
   </a>
 </p>
 
